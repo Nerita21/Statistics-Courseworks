@@ -1,0 +1,12 @@
+The data derives from a field experiment, where soil received two types of rain manipulation.
+Treat1 was an old treatment, which happened several years ago before sampling. “X” means an extreme drought, and “C” is the control. 
+Treat2 is a constant treatment, where from “W1” to “W4” an increasing drought stress is applied.
+All treatments are done in 6 parallels, named as “Blocks”. So altogether there are 2*4*6=48 samples.
+The data itself contains coverage values of the plants in each plot in form of percentages. 100% would mean that the plot is totally covered by plants. The sum of the coverage values can be different in the samples, but it is not a problem, hence it is also an effect of the treatments, how big part of the plot are covered by plants.
+The scientific question is the following: is there any effect of the treatments on the plant community composition? It is also important to check if the parallels are designed in a correct way, thus parallels have no effect on community composition.
+To answer this question, please do the followings:
+1, Import the data file to R.
+2, Decide whether a standardisation is needed, and write down your arguments!
+3, Perform an ordination to visualize nicely the relations of all the samples on a 2-dimensional scatterplot. (a) First decide, what kind of ordination method you would like to use and write down your arguments. (b) Perform the ordination itself. (c) Prepare a nice 2-dimensional scatterplot using ggplot. Use shapes colours and hulls/ellipses for the different treatments! Don’t forget to evaluate the goodness of the ordinations with the learned methods, and add those numbers to the figures/scatterplots, which describe the goodness of the ordinations.
+4, Finally test, if there is any significant difference among the samples based on the first and second treatments or among the parallels (blocks).
+Include all these results in your report with adequate explanations!

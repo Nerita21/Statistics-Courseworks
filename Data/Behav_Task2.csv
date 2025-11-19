@@ -1,0 +1,88 @@
+individual,population,sex,light.regime,exploration,colonization,max.dist,disp.speed,colonization.time.s
+C01,Colonist,male,dark,54,11,11,0.003055556,1906
+C02,Colonist,male,dark,47,11,11,0.003055556,3580
+C05,Colonist,male,light,128,15,39.18722787,0.010885341,1378
+C07,Colonist,female,light,58,15,41.60246533,0.01155624,1298
+C08,Colonist,female,light,7,5,5,0.001388889,3537
+C09,Colonist,female,dark,137,15,111.5702479,0.030991736,484
+C10,Colonist,male,light,28,13,13,0.003611111,2972
+C11,Colonist,male,light,52,14,14,0.003888889,3129
+C12,Colonist,female,dark,8,1,1,0.000277778,651
+C13,Colonist,male,light,88,15,48.95738894,0.013599275,1103
+C14,Colonist,male,light,40,6,6,0.001666667,3279
+C15,Colonist,male,dark,6,2,2,0.000555556,2938
+C16,Colonist,female,light,35,12,12,0.003333333,1916
+DM01,Dunakeszi-moor,female,light,4,5,5,0.001388889,3399
+DM02,Dunakeszi-moor,female,dark,24,14,14,0.003888889,3423
+DM03,Dunakeszi-moor,female,dark,35,15,72.38605898,0.020107239,746
+DM04,Dunakeszi-moor,male,dark,81,15,33.8770389,0.009410289,1594
+DM05,Dunakeszi-moor,female,light,43,15,70.4041721,0.019556714,767
+DM06,Dunakeszi-moor,male,light,127,15,67.66917293,0.018796992,798
+DM07,Dunakeszi-moor,female,dark,229,15,74.2778542,0.020632737,727
+DM08,Dunakeszi-moor,male,light,95,15,77.80979827,0.021613833,694
+DM09,Dunakeszi-moor,female,light,12,4,4,0.001111111,811
+DM10,Dunakeszi-moor,male,dark,110,15,23.80952381,0.006613757,2268
+DM11,Dunakeszi-moor,female,dark,90,15,40.7239819,0.011312217,1326
+DM12,Dunakeszi-moor,female,light,162,15,144.772118,0.040214477,373
+DM13,Dunakeszi-moor,female,light,6,1,1,0.000277778,446
+DM14,Dunakeszi-moor,female,dark,34,11,11,0.003055556,2186
+DM15,Dunakeszi-moor,female,light,4,1,1,0.000277778,29
+DM16,Dunakeszi-moor,male,dark,66,15,24.89626556,0.006915629,2169
+DM17,Dunakeszi-moor,female,dark,134,15,64.90384615,0.018028846,832
+DM19,Dunakeszi-moor,male,light,140,15,37.84162579,0.010511563,1427
+DM20,Dunakeszi-moor,male,dark,68,15,39.24418605,0.010901163,1376
+DM23,Dunakeszi-moor,male,light,129,15,24.25876011,0.006738544,2226
+DM24,Dunakeszi-moor,male,dark,164,15,31.10599078,0.008640553,1736
+DM25,Dunakeszi-moor,male,dark,23,12,12,0.003333333,3428
+DM26,Dunakeszi-moor,male,light,126,11,11,0.003055556,753
+DM27,Dunakeszi-moor,female,light,44,15,18.07228916,0.00502008,2988
+DM28,Dunakeszi-moor,male,dark,117,15,32.84671533,0.009124088,1644
+DM29,Dunakeszi-moor,female,light,37,7,7,0.001944444,509
+DM30,Dunakeszi-moor,female,light,18,6,6,0.001666667,3452
+DM31,Dunakeszi-moor,male,light,76,15,15.63857515,0.004344049,3453
+DM32,Dunakeszi-moor,male,dark,73,15,37.42203742,0.01039501,1443
+GL01,Gotes Lake,male,dark,44,15,17.35218509,0.004820051,3112
+GL02,Gotes Lake,female,light,7,3,3,0.000833333,1348
+GL03,Gotes Lake,male,light,0,0,0,0,0
+GL04,Gotes Lake,female,dark,26,12,12,0.003333333,1103
+GL05,Gotes Lake,male,dark,23,5,5,0.001388889,3081
+GL07,Gotes Lake,male,dark,11,6,6,0.001666667,3119
+GL09,Gotes Lake,female,dark,42,11,11,0.003055556,1598
+GL10,Gotes Lake,female,light,17,12,12,0.003333333,3567
+GL11,Gotes Lake,male,dark,126,15,50.46728972,0.014018692,1070
+GL12,Gotes Lake,female,dark,8,3,3,0.000833333,183
+GL13,Gotes Lake,male,dark,15,8,8,0.002222222,2295
+GL14,Gotes Lake,female,light,5,1,1,0.000277778,1505
+GL15,Gotes Lake,male,light,90,14,14,0.003888889,2474
+GL16,Gotes Lake,female,light,15,6,6,0.001666667,792
+GL17,Gotes Lake,male,dark,119,15,39.9408284,0.011094675,1352
+GL19,Gotes Lake,male,light,20,5,5,0.001388889,454
+GL20,Gotes Lake,female,dark,28,8,8,0.002222222,343
+GL21,Gotes Lake,female,light,15,10,10,0.002777778,523
+GL22,Gotes Lake,male,light,15,5,5,0.001388889,3080
+GL23,Gotes Lake,female,light,34,15,18.86133426,0.00523926,2863
+GL25,Gotes Lake,male,light,0,0,0,0,0
+GL26,Gotes Lake,male,dark,27,12,12,0.003333333,3413
+GL27,Gotes Lake,female,light,8,4,4,0.001111111,1758
+GL28,Gotes Lake,female,dark,23,13,13,0.003611111,1951
+GL29,Gotes Lake,female,light,20,10,10,0.002777778,3001
+GL30,Gotes Lake,male,dark,30,8,8,0.002222222,2426
+GL31,Gotes Lake,male,light,57,9,9,0.0025,1001
+MJC02,Molnar Janos Cave,male,dark,49,9,9,0.0025,2741
+MJC03,Molnar Janos Cave,male,light,35,13,13,0.003611111,1075
+MJC08,Molnar Janos Cave,female,dark,0,0,0,0,0
+MJC15,Molnar Janos Cave,male,light,145,8,8,0.002222222,107
+MJC16,Molnar Janos Cave,male,light,17,8,8,0.002222222,2601
+MJC17,Molnar Janos Cave,male,dark,28,8,8,0.002222222,2031
+MJC18,Molnar Janos Cave,female,dark,127,12,12,0.003333333,1128
+MJC20,Molnar Janos Cave,female,light,25,11,11,0.003055556,745
+MJC21,Molnar Janos Cave,female,dark,8,3,3,0.000833333,1723
+MJC22,Molnar Janos Cave,female,dark,85,8,8,0.002222222,1745
+MJC24,Molnar Janos Cave,male,light,35,6,6,0.001666667,381
+MJC26,Molnar Janos Cave,male,light,161,15,79.5287187,0.022091311,679
+MJC27,Molnar Janos Cave,female,dark,14,6,6,0.001666667,3600
+MJC28,Molnar Janos Cave,female,light,148,15,48.38709677,0.01344086,1116
+MJC30,Molnar Janos Cave,male,dark,31,8,8,0.002222222,3463
+MJC32,Molnar Janos Cave,male,dark,61,8,8,0.002222222,303
+MJC35,Molnar Janos Cave,male,dark,0,0,0,0,0
+MJC38,Molnar Janos Cave,female,light,70,15,45.68527919,0.012690355,1182
