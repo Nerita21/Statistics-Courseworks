@@ -1,13 +1,13 @@
 # Statistics-Coursework (Biometry assignments)
 
-This repository contains coursework for an undergraduate statistics/biometry class. It includes the assignment scripts, the raw and cleaned data used for the exercises, example plots produced during the analyses, and final reports.
+This repository contains coursework for undergraduate statistics/biometry class. It includes the assignment scripts, the raw and cleaned data used for the exercises, example plots produced during the analyses, and final reports.
 
 ## What is included
 
 - `Data/` — canonical copies of the datasets used for the assignments:
-	- `Behav_Task2.csv` — behavioural data for Assignment 2
+	- `Behav_Task2.csv` — behavioural data for Assignment 2a
 	- `Biomdata_Task1.csv` — biometric measurements used in Assignment 1
-	- `Soildata_Task3.txt` — soil data used for Assignment 3
+	- `Soildata_Task3.txt` — soil data used for Assignment 2b
 	- `Tasks/` — textual descriptions of the tasks and instructions
 - `Scripts/` — R scripts that perform the analyses and (when run) produce plots and summary output:
 	- `Scripts/Assignment1.R`
